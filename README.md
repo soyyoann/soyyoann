@@ -30,7 +30,7 @@ I am a cloud solution architecture <img src="https://media.giphy.com/media/WUlpl
 
 - :zap: In my free time, I solve read tech articles and try to make some codes.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vishnu-vijayan-0a0334258)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/anjitha-rameshan-1a4735210)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
